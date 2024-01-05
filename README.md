@@ -7,6 +7,7 @@ Implementing the concepts and variations of Linear Regression to predict the Pow
 ## Contents
 - Data Analysis
 - Outlier Detection
+- Data Visualization
 - Simple Linear Regression
 - Multiple Linear Regression
 - Null Hypothesis Testing
